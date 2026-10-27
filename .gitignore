@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Auto-py-to-exe qovluqları
+build/
+dist/
+*.spec
+
+# Yerli media alətləri (GitHub-a yüklənməməsi üçün)
+yt-dlp.exe
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+
+# Əməliyyat sistemi faylları
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
